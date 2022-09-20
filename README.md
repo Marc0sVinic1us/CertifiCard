@@ -1,3 +1,6 @@
+Link do GitHub Pages para acompanhar o projeto: https://marc0svinic1us.github.io/CertifiCard/
+
+
 Descrição detalhada dos projetos:
 
 Neste material, há uma página com projetos de acordo com os conteúdos aprendidos durante as aulas:
